@@ -1,0 +1,36 @@
+[submodule "java_day00"]
+	path = java_day00
+	url = https://github.com/Preposterone/java_day00
+[submodule "java_day01"]
+	path = java_day01
+	url = https://github.com/Preposterone/java_day01
+[submodule "java_day02"]
+	path = java_day02
+	url = https://github.com/Preposterone/java_day02
+[submodule "java_day03"]
+	path = java_day03
+	url = https://github.com/Preposterone/java_day03
+[submodule "java_day04"]
+	path = java_day04
+	url = https://github.com/Preposterone/java_day04
+[submodule "java_day05"]
+	path = java_day05
+	url = https://github.com/Preposterone/java_day05
+[submodule "java_day06"]
+	path = java_day06
+	url = https://github.com/Preposterone/java_day06
+[submodule "java_day07"]
+	path = java_day07
+	url = https://github.com/Preposterone/java_day07
+[submodule "java_day08"]
+	path = java_day08
+	url = https://github.com/Preposterone/java_day08
+[submodule "java_day09"]
+	path = java_day09
+	url = https://github.com/Preposterone/java_day09
+[submodule "java_rush00"]
+	path = java_rush00
+	url = https://github.com/Preposterone/java_rush00
+[submodule "java_rush01"]
+	path = java_rush01
+	url = https://github.com/Preposterone/java_rush01
